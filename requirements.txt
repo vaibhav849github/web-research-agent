@@ -1,0 +1,7 @@
+openai
+streamlit
+requests
+beautifulsoup4
+scikit-learn
+python-dotenv
+serpapi
